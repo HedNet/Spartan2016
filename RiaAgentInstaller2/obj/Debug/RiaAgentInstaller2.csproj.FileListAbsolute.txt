@@ -1,0 +1,9 @@
+C:\Users\Theos\Documents\Visual Studio 2013\Projects\RiaAgentInstaller2\RiaAgentInstaller2\bin\Debug\RiaAgentInstaller2.exe.config
+C:\Users\Theos\Documents\Visual Studio 2013\Projects\RiaAgentInstaller2\RiaAgentInstaller2\bin\Debug\RiaAgentInstaller2.exe
+C:\Users\Theos\Documents\Visual Studio 2013\Projects\RiaAgentInstaller2\RiaAgentInstaller2\bin\Debug\RiaAgentInstaller2.pdb
+C:\Users\Theos\Documents\Visual Studio 2013\Projects\RiaAgentInstaller2\RiaAgentInstaller2\obj\Debug\RiaAgentInstaller2.csprojResolveAssemblyReference.cache
+C:\Users\Theos\Documents\Visual Studio 2013\Projects\RiaAgentInstaller2\RiaAgentInstaller2\obj\Debug\RiaAgentInstaller2.MainConsole.resources
+C:\Users\Theos\Documents\Visual Studio 2013\Projects\RiaAgentInstaller2\RiaAgentInstaller2\obj\Debug\RiaAgentInstaller2.Properties.Resources.resources
+C:\Users\Theos\Documents\Visual Studio 2013\Projects\RiaAgentInstaller2\RiaAgentInstaller2\obj\Debug\RiaAgentInstaller2.csproj.GenerateResource.Cache
+C:\Users\Theos\Documents\Visual Studio 2013\Projects\RiaAgentInstaller2\RiaAgentInstaller2\obj\Debug\RiaAgentInstaller2.exe
+C:\Users\Theos\Documents\Visual Studio 2013\Projects\RiaAgentInstaller2\RiaAgentInstaller2\obj\Debug\RiaAgentInstaller2.pdb
